@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# React Router
+Use the React Router to build a vending machine!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Different Components and files
+- App
+- VendingMachine
+- Soda
+- Chips
+- Candy
+- and a custom hook
 
 ## Available Scripts
 
